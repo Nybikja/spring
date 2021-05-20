@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.29.0" timestamp="2021-05-15T11:48:10.837">
+<file name="D:\intellij-idea-projects\lessonwithzenyk\src\main\java\ua\lviv\iot\lessonwithzenyk\LessonwithzenykApplication.java">
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="60" rule="UnusedImports" ruleset="Best Practices" package="ua.lviv.iot.lessonwithzenyk" class="LessonwithzenykApplication" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'org.springframework.context.annotation.ComponentScan'
+</violation>
+</file>
+</pmd>
